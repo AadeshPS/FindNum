@@ -1,5 +1,3 @@
-# FindNum
-Sure, here's a possible README file for the FindNum project:
 
 # FindNum
 
